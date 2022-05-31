@@ -1,6 +1,6 @@
 # mummerRoom
 
-## A real-time chatroom app
+## A real-time chat and share app
 
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/59107999/171157374-5623b3e1-9d0c-4a25-92dc-ba550f84d848.png">
 
